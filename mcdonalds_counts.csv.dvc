@@ -1,0 +1,5 @@
+outs:
+- md5: bcd0c6e0c95ed0949c902e8efd2b3712
+  size: 192606
+  hash: md5
+  path: mcdonalds_counts.csv
