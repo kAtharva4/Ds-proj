@@ -1,0 +1,5 @@
+outs:
+- md5: 6480f686a6094ce04bc4558ee37d541b
+  size: 116532
+  hash: md5
+  path: mcdonalds_cleaned.csv
